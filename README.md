@@ -53,6 +53,15 @@ I'm a **Computer Programming Student** and a passionate **Cyber Security Enthusi
 
 ---
 
+### 📜 Certifications & Education
+
+| Certificate Name | Issuer | Date | Focus Area |
+| :--- | :--- | :--- | :--- |
+| 🛡️ [**HTML5 ile Web Geliştirme**](https://github.com/ebubekirgulec/Certificates/blob/main/HTML5_ile_Web_Geli%C5%9Ftirme_Sertifika.pdf) | BTK Akademi | Feb 2026 | Web Development |
+| 🐉 [**Kali Linux**](https://github.com/ebubekirgulec/Certificates/blob/main/Kali_Linux_Sertifika.pdf) | BTK Akademi | Feb 2026 | Cyber Security |
+| 🔌 [**Projelerle Arduino Programlama**](https://github.com/ebubekirgulec/Certificates/blob/main/Projelerle_Arduino_Programlama_Sertifika.pdf) | BTK Akademi | Dec 2023 | IoT / Hardware |
+| 📱 [**App Inventor ile Mobil Uygulama**](https://github.com/ebubekirgulec/Certificates/blob/main/App_Inventor_ile_Mobil_Uygulama_Geli%C5%9Ftirme_Sertifika.pdf) | BTK Akademi | Nov 2023 | Mobile Dev |
+
 ### 📊 GitHub Stats
 
 
