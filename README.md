@@ -35,6 +35,5 @@ I'm a **Computer Programming Student** and a passionate **Cyber Security Enthusi
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebubekirgulec&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebubekirgulec&theme=tokyonight&hide_border=true)
