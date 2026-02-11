@@ -1,16 +1,20 @@
-## Hi there 👋
+### Merhaba, Ben Ebubekir! 👋
 
-<!--
-**ebubekirgulec/ebubekirgulec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Siber Güvenlik meraklısı ve Bilgisayar Programcılığı öğrencisiyim. Kendimi **Web Güvenliği**, **CTF (Pwn, Rev)** ve **Web Geliştirme** alanlarında geliştiriyorum.
 
-Here are some ideas to get you started:
+- 🔭 Şu anda **CTF challenge'ları çözüyor ve Web zaafiyetleri** üzerine çalışıyorum.
+- 🌱 **Python** ve **Web Teknolojileri** öğreniyorum.
+- 🎯 Hedefim: Yetkin bir **Siber Güvenlik Uzmanı** olmak.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Yetenekler & Araçlar
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+### 📊 GitHub İstatistiklerim
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ebubekirgulec&show_icons=true&theme=dark" alt="ebubekirgulec" />
+</p>
