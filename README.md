@@ -33,6 +33,26 @@ I'm a **Computer Programming Student** and a passionate **Cyber Security Enthusi
 
 ---
 
+### 🏆 CTF Achievements & Participations
+
+> 🛡️ **Core Member** of **Teknopark Ankara İvedik OSB MTAL** Cyber Security Team.
+
+| Event Name | Rank / Status | Category Focus |
+| :--- | :--- | :--- |
+| 🇹🇷 **Türkiye Siber Kümelenmesi CTF** | 🏅 High Rank | General Skills |
+| 🚩 **HackTheBox CTF** | 🎖️ Active Player | Pwn & Web |
+| ⚔️ **KnightCTF** | 🥈 Top Tier | Cryptography |
+| 🛡️ **picoCTF** | 🔓 Solved Many | Binary Exp. |
+| 💀 **0xl4ughCTF** | 🚀 Completed | Reverse Eng. |
+| 🔰 **PascalCTF** | ⭐ High Score | Web Security |
+| 🧩 **MetaCTF** | 🔓 Solved | Forensics |
+| 🌐 **AsisCTF** | 🎯 Participant | Crypto / Web |
+| 🐞 **NullconCTF** | 🔥 Challenger | Pwn |
+| 👾 **0xfunCTF** | ✨ Finalist | Mixed |
+| 🔍 **Google CTF** | 🧠 Participant | Hardcore Pwn |
+
+---
+
 ### 📊 GitHub Stats
 
 
