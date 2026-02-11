@@ -1,20 +1,45 @@
-### Merhaba, Ben Ebubekir! 👋
+# Hi there, I'm Ebubekir Güleç! 👋
 
-Siber Güvenlik meraklısı ve Bilgisayar Programcılığı öğrencisiyim. Kendimi **Web Güvenliği**, **CTF (Pwn, Rev)** ve **Web Geliştirme** alanlarında geliştiriyorum.
+I'm a **Computer Programming Student** and a passionate **Cyber Security Enthusiast** from Turkey. I focus on **Network Security**, **Web Application Security**, and **CTF Challenges**.
 
-- 🔭 Şu anda **CTF challenge'ları çözüyor ve Web zaafiyetleri** üzerine çalışıyorum.
-- 🌱 **Python** ve **Web Teknolojileri** öğreniyorum.
-- 🎯 Hedefim: Yetkin bir **Siber Güvenlik Uzmanı** olmak.
+- 🔭 I’m currently working on **Network Analysis & Web Vulnerabilities**.
+- 🛡️ Active CTF Player: **Pwn, Reverse Engineering, Web, Crypto**.
+- 💬 Ask me about **Packet Analysis, Linux, and Python Scripting**.
+- ⚡ Fun fact: I love modifying cars and drones as much as I love modifying code! 🚗🚁
 
-### 🛠️ Yetenekler & Araçlar
+---
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-
-### 📊 GitHub İstatistiklerim
-
+### 🛠️ Languages & Technologies
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ebubekirgulec&show_icons=true&theme=dark" alt="ebubekirgulec" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+### 🔐 Security Tools & Network
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-F66?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-333?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDB-Debugger-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ghidra-Reverse_Eng-red?style=for-the-badge" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ebubekirgulec&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirgulec&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebubekirgulec&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
