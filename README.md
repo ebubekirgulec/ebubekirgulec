@@ -35,11 +35,6 @@ I'm a **Computer Programming Student** and a passionate **Cyber Security Enthusi
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebubekirgulec&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirgulec&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebubekirgulec&show_icons=true&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebubekirgulec&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebubekirgulec&theme=tokyonight&hide_border=true)
